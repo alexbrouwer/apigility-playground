@@ -32,7 +32,10 @@
         "zfcampus/zf-apigility-documentation": "^1.2.3",
         "zfcampus/zf-development-mode": "^3.0",
         "doctrine/doctrine-orm-module": "^1.1",
-        "doctrine/migrations": "^1.5"
+        "doctrine/migrations": "^1.5",
+        "api-skeletons/zf-oauth2-doctrine": "^1.1",
+        "api-skeletons/zf-oauth2-doctrine-permissions-acl": "^1.1",
+        "bushbaby/zf-oauth2-doctrine-mutatetablenames": "^0.4.0"
     },
     "require-dev": {
         "zendframework/zend-developer-tools": "^1.1",
